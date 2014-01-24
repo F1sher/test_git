@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 	function_in_file1();
 	function_in_file2();
 	
-	printf("Ver 1.23\n");
+	printf("Ver 1.234\n");
 	
 	return 0;
 }
